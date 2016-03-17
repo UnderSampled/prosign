@@ -1,0 +1,6 @@
+[submodule "prosign-client"]
+	path = prosign-client
+	url = https://github.com/UnderSampled/prosign-client.git
+[submodule "prosign-server"]
+	path = prosign-server
+	url = https://github.com/UnderSampled/prosign-server.git
